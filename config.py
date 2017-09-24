@@ -1,7 +1,7 @@
 '''Mixer Interactive 2.0 config file'''
 
 # Mixer Base URL
-MIXER_URI = 'https://beam.pro/api/v1/'
+MIXER_URI = 'https://mixer.com/api/v2'
 
 # OAuth endpoint used to get authorization code
 OAUTH_URI = 'https://mixer.com/oauth/authorize'
