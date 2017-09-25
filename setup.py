@@ -6,15 +6,14 @@ if sys.version_info<(3, 5):
                     "and therefore requires Python >= 3.5.x")
 
 setup(
-    name='interactive_python',
+    name='OctoMixInteractiveSA',
     version='0.1.0',
-    description='Hook for Octoprint to use Mixer Interactive 2.0',
+    description='Server to integrate Octoprint to use Mixer Interactive 2.0',
     classifiers=[
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
         'Topic :: Games/Entertainment',
         'Topic :: Software Development',
-        'Topic :: Software Development :: Libraries'
     ],
     author='Kris Gainsforth',
     author_email='krisguy@krisguy.com',
